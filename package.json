@@ -1,0 +1,26 @@
+{
+  "name": "climeclabs-panel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taparia11/Climeclabs-Panel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taparia11/Climeclabs-Panel/issues"
+  },
+  "homepage": "https://github.com/taparia11/Climeclabs-Panel#readme",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1",
+    "vite": "^3.2.2"
+  }
+}
